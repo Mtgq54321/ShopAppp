@@ -1,0 +1,21 @@
+POST http://localhost:3006/users/register
+Content-Type: application/json
+
+{
+    "username": "Help2",
+    "password": "1234",
+    "email": "g@g.comm",
+    "pfp": ""
+}
+###
+POST http://localhost:3000/products/
+Content-Type: application/json
+
+{
+    "name": "Help342",
+    "description": "1233244",
+    "price": "9000324",
+    "category": "hho342ho",
+    "images": "iijoiw324jfoij"
+}
+###
